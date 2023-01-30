@@ -36,7 +36,7 @@ python manage.py runserver
 
 this project contains two end points
 
-- Endpoint:
+- Endpoints:
 ```
 /rest/v1/calendar/init/ -> GoogleCalendarInitView()
 ```
